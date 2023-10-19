@@ -1,2 +1,2 @@
 # Team-19-Mid-term-Project
-This repository contains the Pitch deck of team 19 project
+Pitch deck - https://docs.google.com/presentation/d/1z4EQdisdvGzmIYNORrRTqSRUfnpESJ3E/edit?usp=share_link&ouid=110236794107973990476&rtpof=true&sd=true
